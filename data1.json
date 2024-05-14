@@ -1,0 +1,14 @@
+{
+    "name": "John Doe",
+    "age": 27,
+    "city": "Tacoma, Wa",
+    "interests": [
+        "Hiking",
+        "Running",
+        "Bible",
+        "Snowboarding",
+        "Coding",
+        "Secret Hobby"
+    ],
+    "is_student": true
+}
